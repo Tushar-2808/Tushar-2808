@@ -6,9 +6,10 @@
 ---
 
 ## 🧠 About Me
+
 - 💡 Strong in **HTML, CSS, JavaScript**, and **ReactJS**
 - 🔥 Passionate about creating impactful web applications
-- ⚡ Love learning new technologies and improving my skills
+- ⚡ Always eager to learn new technologies
 - 🎯 Adaptable and quick to pick up new frameworks and tools
 
 ---
@@ -18,36 +19,49 @@
 ### 💰 [CoinPilot](https://coinpilot.netlify.app/)
 > A real-time finance tracker to manage income, expenses, and current balance with Firebase backend.
 
-- Full-stack personal finance app
-- Realtime dashboard + transaction log
+- Full-stack personal finance app  
+- Realtime dashboard + transaction log  
 - Built using HTML, CSS, JavaScript, Firebase
 
+---
 
-### 🛒 [E-Commerce Website](https://github.com/Tushar-2808/E-Commerce)
+### 📝 [Task Manager](https://task-manager-one-dusky.vercel.app/)
+> A task management web app to organize daily to-dos with secure authentication and full CRUD functionality.
+
+- MERN stack project with protected routes using JWT  
+- Create, update, and delete tasks through a responsive UI  
+- Built with MongoDB, Express.js, React, Node.js  
+
+---
+
+### 🛒 [E-Commerce Website]
 > An online store featuring product filters, cart functionality, and Firebase authentication.
 
-- Product filtering, shopping cart
-- Firebase-based authentication
+- Product filtering, shopping cart  
+- Firebase-based authentication  
 - Responsive and secure UI
 
+---
 
-### ❓ [Quiz Website](https://github.com/Tushar-2808/QuizWebsite)
+### ❓ [Quiz Website]
 > An interactive quiz app that calculates scores in real-time.
 
-- Real-time scoring & feedback
-- Clean and simple UI
+- Real-time scoring & feedback  
+- Clean and simple UI  
 - Built with vanilla JS
 
 ---
 
 ## 🛠️ Tech Stack
-`HTML` `CSS` `JavaScript` `ReactJS` `Firebase` `Tailwind CSS`
+
+`HTML` `CSS` `JavaScript` `ReactJS` `Firebase` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [tkumar2808@gmail.com](mailto:tkumar2808@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/tushar2808](https://linkedin.com/in/tushar2808)
+
+- 📧 Email: [tkumar2808@gmail.com](mailto:tkumar2808@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/tushar2808](https://linkedin.com/in/tushar2808)  
 - 🧑‍💻 GitHub: [github.com/Tushar-2808](https://github.com/Tushar-2808)
 
 ---
