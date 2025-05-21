@@ -34,6 +34,16 @@
 
 ---
 
+### 💬 [YappChat](https://yappchat.netlify.app/)
+> A real-time chat app with friend requests, live messaging, and dark/light mode powered by Firebase.
+
+- Firebase authentication and real-time Firestore sync  
+- Send/accept friend requests with live updates  
+- Real-time messaging with responsive chat UI and theme toggle  
+- Built using HTML, CSS, JavaScript, Firebase
+
+---
+
 ### 🛒 [E-Commerce Website]
 > An online store featuring product filters, cart functionality, and Firebase authentication.
 
