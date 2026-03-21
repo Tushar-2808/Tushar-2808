@@ -1,84 +1,68 @@
 # Hi, I'm Tushar 👋
 
-🚀 I'm a **Frontend Developer** passionate about building clean, user-friendly web interfaces and full-stack apps.
-📍 Based in Zirakpur, Punjab, I'm currently exploring modern tools like ReactJS and Firebase to develop responsive and scalable projects.
+Full Stack Developer (MERN) focused on building fast, scalable, and user-centric web applications.
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 💡 Strong in **HTML, CSS, JavaScript**, and **ReactJS**
-* 🔥 Passionate about creating impactful web applications
-* ⚡ Always eager to learn new technologies
-* 🎯 Adaptable and quick to pick up new frameworks and tools
-
----
-
-## 💼 Projects
-
-### 💰 [CoinPilot](https://coinpilot.netlify.app/)
-
-> A real-time finance tracker to manage income, expenses, and current balance with Firebase backend.
-
-* Full-stack personal finance app
-* Realtime dashboard + transaction log
-* Built using HTML, CSS, JavaScript, Firebase
-
----
-
-### 💬 [Chatly](https://chatly-chat-app.netlify.app/)
-
-> A real-time chat app with typing indicators, read receipts, and secure JWT authentication.
-
-* Real-time messaging with Socket.io and live updates
-* Secure login system using JWT authentication
-* Responsive chat UI with dark/light theme toggle
-* Built using React, Node.js, Express.js, MongoDB, Socket.io
-
----
-
-### 📝 [Task Manager](https://task-manager-one-dusky.vercel.app/)
-
-> A task management web app to organize daily to-dos with secure authentication and full CRUD functionality.
-
-* MERN stack project with protected routes using JWT
-* Create, update, and delete tasks through a responsive UI
-* Built with MongoDB, Express.js, React, Node.js
-
----
-
-### 🛒 [E-Commerce Website]
-
-> An online store featuring product filters, cart functionality, and Firebase authentication.
-
-* Product filtering, shopping cart
-* Firebase-based authentication
-* Responsive and secure UI
-
----
-
-### ❓ [Quiz Website]
-
-> An interactive quiz app that calculates scores in real-time.
-
-* Real-time scoring & feedback
-* Clean and simple UI
-* Built with vanilla JS
+- 💻 I build real-world applications with a focus on performance and usability  
+- ⚡ Experience with React, Node.js, Next.js, and modern JavaScript  
+- 📈 Improved user engagement by up to 35% and reduced system latency to <100ms  
+- 🎯 Currently looking for Frontend / Full Stack Developer opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
 
-`HTML` `CSS` `JavaScript` `ReactJS` `Firebase` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+**Frontend:** React.js, Next.js, HTML5, CSS3, Redux  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, GitHub, Postman, CI/CD  
 
 ---
 
-## 📫 Contact Me
+## 📌 Featured Projects
 
-* 📧 Email: [tkumar2808@gmail.com](mailto:tkumar2808@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/tushar2808](https://linkedin.com/in/tushar2808)
-* 🧑‍💻 GitHub: [github.com/Tushar-2808](https://github.com/Tushar-2808)
+### 🔹 Co-Living Space Platform (NestMate Sharing)  
+Platform to help users find compatible roommates based on preferences.  
+- Improves match relevance and reduces search time by 40%  
+- Includes filtering system and real-time interaction features  
+- Designed for smooth and intuitive user experience  
+
+🔗 Live: https://nestmatesharing.netlify.app  
+💻 Code: https://github.com/Tushar-2808/Co-Living-Space-Platform-Shared-Living-Roommate-Management-System  
 
 ---
 
-*Thanks for stopping by! Feel free to check out my projects or connect with me!*
+### 🔹 CoinPilot – Personal Finance Tracker  
+A real-time finance tracker designed for accuracy and usability.  
+- Used by 50+ users, reducing manual errors by 90%  
+- Mobile-first design with clean and intuitive UI  
+- Real-time updates using Firebase  
+
+🔗 Live: https://coinpilot.netlify.app  
+💻 Code: https://github.com/Tushar-2808/CoinPilot  
+
+---
+
+### 🔹 Chatly – Real-Time Chat Application  
+Real-time messaging platform with seamless interaction and high performance.  
+- Handles 200+ daily messages with sub-100ms latency  
+- Features typing indicators, read receipts, and online presence  
+- Secure authentication using JWT  
+
+🔗 Live: https://chatly-chat-app.netlify.app  
+💻 Code: https://github.com/Tushar-2808/Chatly-Chat-App  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/tushar2808/  
+- GitHub: https://github.com/Tushar-2808  
+- Email: tkumar2808@gmail.com  
+
+---
+
+⭐ If you like my work, feel free to check out my repositories and connect!
